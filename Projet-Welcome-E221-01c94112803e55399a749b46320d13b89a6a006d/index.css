@@ -1,0 +1,150 @@
+body{
+	width: 99%;
+	height: 1200px;
+	border: solid;
+	background-color:black;
+}
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100px;
+	width: 95%;
+	border: solid;
+}
+.logo{
+	width: 15%;
+	height: 110px;
+	border: solid;
+	margin-left: 120px;
+	margin-bottom: 40px;
+
+}
+.menu{
+	width: 50%;
+	height: 80px;
+	border: solid;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+.im{
+	width: 100%;
+	height: 150px;
+}
+.a{
+	width: 14%;
+	height: 75px;
+	color: #E6E9EE;
+	margin-bottom: -70px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+.b{
+	width: 19%;
+	height: 75px;
+	color: white;
+	margin-bottom: -70px;
+	font-family: Open Sans;
+    font-weight: bold;
+}
+aside{
+	width: 98%;
+	height: 500px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.A1{
+	width: 50%;
+	height: 250px;
+	display: flex;
+	justify-content: space-around;
+}
+.A2{
+	border: 1px solid;
+	width: 50%;
+	height: 250px;
+	display: flex;
+	justify-content: space-around;
+}
+.a1{
+	width: 45%;
+	height: 190px;
+	
+}
+.a2{
+	width: 45%;
+	height: 190px;
+}
+.img1{
+	width: 98%;
+	height: 230px;
+	background: url(Accueil.jpg);
+	border-radius: 50px 0px;
+}
+.img2{
+	width: 98%;
+	height: 230px;
+	background: url(ima.jpg);
+	border-radius: 0px 50px;
+}
+.titre1{
+	width: 90%;
+	height: 40px;
+	margin-bottom: 10px;
+}
+.texte1{
+	width: 90%;
+	height: 130px;
+}
+.stytexte{
+	font-family: Open Sans;
+	color: #E6E9EE
+}
+.stytitre{
+	font-family: Tenor Sans;
+	color: #E6E9EE
+}
+.titre2{
+	width: 90%;
+	height: 40px;
+	margin-bottom: 10px;
+}
+.texte2{
+	width: 90%;
+	height: 130px;
+}
+.dos{
+	width: 99%;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+}
+.dos1{
+	height: 50px;
+	width: 40%;
+	border-radius: 30px;
+	color: #E6E9EE;
+	font-family: Tenor Sans;
+	margin-top: 10px;
+}
+.B{
+	width: 98%;
+	height: 700px;
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.C{
+	width: 42%;
+	height: 300px;
+}
+.img3{
+	width: 100%;
+	height: 300px;
+}
