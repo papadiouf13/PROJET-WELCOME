@@ -1,3 +1,4 @@
-Rejoignez la mode au top avec Open Fashion. Elle est une boutique qui vend toute catégorie d'habits(Hommes, Femmes, Enfants
-
-Nous sommes fiers de voir que Open Fashion est devenue une entreprise avec une vision claire. Nous existons grâce à notre nouvelle approche dans le domaine de la mode principalement dans la vente d’habits de femmes, d’hommes et d’enfants..
+Le projet welcome constitue à créer pour l’Entreprise OPEN FASHION un site one page pour présenter sa structure, une page web et mobile moderne en se référant sur un cahier de charge avec des démarches précise. Pour réaliser le travail de ce projet quelques outils technologies ont été utilisés tels que html et css.
+  L’Entreprise OPEN FASHION est une boutique de vente d’habillement de toutes catégories.
+  la page web est constitue de  4 volets :Volet Accueil, volet Newsletters, volet Contact et volet newsletters.
+  
